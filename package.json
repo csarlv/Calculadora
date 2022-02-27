@@ -1,0 +1,16 @@
+{
+  "name": "calculadora",
+  "version": "1.0.0",
+  "description": "20002450 Programacion Avanzada - Ejercicio 1 - Cesar Avelar",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "keywords": [],
+  "author": "csarlv",
+  "license": "UNLICENSED",
+  "devDependencies": {
+    "electron": "^17.1.0",
+    "mousetrap": "^1.6.5"
+  }
+}

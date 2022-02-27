@@ -1,0 +1,43 @@
+
+#botones {
+    display: grid;
+    grid-template-columns: min-content min-content;
+    text-align: center;
+    justify-content: space-around;
+}
+
+#numeros {
+    display: grid;
+    grid-template-columns: min-content min-content min-content;
+}
+
+#operadores {
+    display: grid;
+    grid-template-columns: min-content;
+}
+
+#cabecera{
+    display: grid;
+    grid-template-columns: auto;
+}
+
+#lineaResultado{
+    border: 2px solid #0000aa;
+    border-radius: 7%;
+}
+
+#lineaActual{
+    border: 2px solid #2b2b38;
+    border-radius: 7%;
+}
+
+.etiquetasCabecera{
+    display: grid;
+    grid-template-columns: min-content min-content;
+    justify-content: space-between;
+}
+
+.grids{
+    gap: 3px 3px;
+    margin: 3px;
+}
